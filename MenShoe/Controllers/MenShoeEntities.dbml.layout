@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 12.125" name="MenShoeEntities">
+  <DataContextMoniker Name="/MenShoeEntitiesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0c2b66cb-ee7f-414d-af8f-aeb7f5968d00" absoluteBounds="3.5, 1.875, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="12d98426-5d01-442c-8d04-c7647841ff4d" absoluteBounds="3.515, 2.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="78a0131a-428b-412b-8ddd-1b580d56987f" absoluteBounds="6.25, 7.375, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/Color" />
+      <nestedChildShapes>
+        <elementListCompartment Id="63eb971a-01fe-4684-b3cd-7cc466ce5281" absoluteBounds="6.265, 7.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c52ab216-6de2-4263-8b1c-53bb0657c634" absoluteBounds="3.5, 9.375, 2, 2.5401025390624987">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ebbcc765-c26c-4fca-953e-744ba33fd7b7" absoluteBounds="3.515, 9.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4e0ea2f7-14e0-48ac-983a-e183d72b248c" absoluteBounds="6.25, 9.375, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f29d050e-fbe3-45ed-953a-f6865084c2ff" absoluteBounds="6.265, 9.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0e81ec07-2a3c-4b08-8cc6-a97f08360bec" absoluteBounds="9, 3.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/OrderDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8bb136be-95f3-4507-9b2c-da6df35aab90" absoluteBounds="9.015, 3.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3931b1e8-654b-44bb-a04c-5d23f57b9546" absoluteBounds="6.25, 3.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fec85031-5c4a-4900-a49c-8b91fe0f2223" absoluteBounds="6.265, 3.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="95027699-c7c2-4e99-8467-a0f4863d4af8" absoluteBounds="9, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/Product_Color" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eed773a4-a996-4c4b-8a37-efbe9e01c05a" absoluteBounds="9.015, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eff00264-a103-4717-b946-1ccf8d5f4301" absoluteBounds="3.5, 3.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/Product_Size" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c17adfd0-7304-44e1-91f8-fdde39a668c0" absoluteBounds="3.515, 4.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f4106c22-25f1-41e1-ac02-32ddd6f357f4" absoluteBounds="3.5, 5.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/ProductCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1b93b2f7-1b82-4612-8591-7cdf396b5b93" absoluteBounds="3.515, 6.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="59f52451-43aa-444b-8880-6c98fe423c8f" absoluteBounds="9, 6.875, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/ProductImage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a6d79fb-e43f-44c8-a1fb-ae6a007bd629" absoluteBounds="9.015, 7.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="22aa274d-0eb7-4109-89ba-8088eb431b61" absoluteBounds="0.75, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/Size" />
+      <nestedChildShapes>
+        <elementListCompartment Id="012a4c7c-7c33-4514-91a3-0b6abd2c1e80" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d8010225-e856-446d-b5d9-294d42f08eb3" absoluteBounds="8.75, 9, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/MenShoeEntitiesDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e8e6433-5897-4088-9354-d6e6cb659c01" absoluteBounds="8.765, 9.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 10.5489005533854); (6.25 : 10.5489005533854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Customer/Customer_Order" />
+      <nodes>
+        <classShapeMoniker Id="c52ab216-6de2-4263-8b1c-53bb0657c634" />
+        <classShapeMoniker Id="4e0ea2f7-14e0-48ac-983a-e183d72b248c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 7.42735097941707); (8.44107443490112 : 7.23627654451595 : JumpStart); (8.55892556509888 : 7.11842541431819 : JumpEnd); (8.62857443490112 : 7.04877654451594 : JumpStart); (8.74642556509888 : 6.93092541431819 : JumpEnd); (8.78125 : 6.89610097941707); (8.78125 : 4.38544840494792); (9 : 4.38544840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Color/Color_OrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="78a0131a-428b-412b-8ddd-1b580d56987f" />
+        <classShapeMoniker Id="0e81ec07-2a3c-4b08-8cc6-a97f08360bec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.25 : 9.375); (7.25 : 8.81899251302083); (8.5 : 8.81899251302083); (8.5 : 4.85942460742187); (8.54166666666667 : 4.85942460742187 : JumpStart); (8.86458333333333 : 4.85942460742187 : JumpEnd); (9 : 4.85942460742187)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Order/Order_OrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="4e0ea2f7-14e0-48ac-983a-e183d72b248c" />
+        <classShapeMoniker Id="0e81ec07-2a3c-4b08-8cc6-a97f08360bec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 3.88022420247396); (8.54166666666667 : 3.88022420247396 : JumpStart); (8.70833333333333 : 3.88022420247396 : JumpEnd); (9 : 3.88022420247396)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Product/Product_OrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="3931b1e8-654b-44bb-a04c-5d23f57b9546" />
+        <classShapeMoniker Id="0e81ec07-2a3c-4b08-8cc6-a97f08360bec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.47199625651042); (7.25 : 2.47199625651042); (7.25 : 3.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Category/Category_Product" />
+      <nodes>
+        <classShapeMoniker Id="0c2b66cb-ee7f-414d-af8f-aeb7f5968d00" />
+        <classShapeMoniker Id="3931b1e8-654b-44bb-a04c-5d23f57b9546" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.23071242863582 : 7.375); (8.44107443490112 : 7.1646379937347 : JumpStart); (8.55892556509888 : 7.04678686353694 : JumpEnd); (8.625 : 6.98071242863582); (8.625 : 1.44314697265625); (9 : 1.44314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Color/Color_Product_Color" />
+      <nodes>
+        <classShapeMoniker Id="78a0131a-428b-412b-8ddd-1b580d56987f" />
+        <classShapeMoniker Id="95027699-c7c2-4e99-8467-a0f4863d4af8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.7812525 : 3.125); (7.7812525 : 1.82097295898437); (8.54166666666667 : 1.82097295898437 : JumpStart); (8.70833333333333 : 1.82097295898437 : JumpEnd); (9 : 1.82097295898437)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Product/Product_Product_Color" />
+      <nodes>
+        <classShapeMoniker Id="3931b1e8-654b-44bb-a04c-5d23f57b9546" />
+        <classShapeMoniker Id="95027699-c7c2-4e99-8467-a0f4863d4af8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.47199625651042); (6.25 : 4.47199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Product_Size/Product_Size_Product" />
+      <nodes>
+        <classShapeMoniker Id="eff00264-a103-4717-b946-1ccf8d5f4301" />
+        <classShapeMoniker Id="3931b1e8-654b-44bb-a04c-5d23f57b9546" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 6.47199625651042); (7.25 : 6.47199625651042); (7.25 : 5.85740397135417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/ProductCategory/ProductCategory_Product" />
+      <nodes>
+        <classShapeMoniker Id="f4106c22-25f1-41e1-ac02-32ddd6f357f4" />
+        <classShapeMoniker Id="3931b1e8-654b-44bb-a04c-5d23f57b9546" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 5.79586450981571); (8.44107443490112 : 5.98693894471683 : JumpStart); (8.55892556509888 : 6.10479007491458 : JumpEnd); (8.56607443490112 : 6.11193894471683 : JumpStart); (8.68392556509888 : 6.22979007491458 : JumpEnd); (8.6875 : 6.23336450981571); (8.6875 : 7.56814697265625); (9 : 7.56814697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Product/Product_ProductImage" />
+      <nodes>
+        <classShapeMoniker Id="3931b1e8-654b-44bb-a04c-5d23f57b9546" />
+        <classShapeMoniker Id="59f52451-43aa-444b-8880-6c98fe423c8f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.44314697265625); (3.25 : 4.44314697265625); (3.25 : 3.625); (6 : 3.625); (6 : 2.875); (7.16666666666667 : 2.875 : JumpStart); (7.33333333333333 : 2.875 : JumpEnd); (7.69791916666667 : 2.875 : JumpStart); (7.86458583333333 : 2.875 : JumpEnd); (8.54166666666667 : 2.875 : JumpStart); (8.70833333333333 : 2.875 : JumpEnd); (10 : 2.875); (10 : 3.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Size/Size_OrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="22aa274d-0eb7-4109-89ba-8088eb431b61" />
+        <classShapeMoniker Id="0e81ec07-2a3c-4b08-8cc6-a97f08360bec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.81856974283854); (3.5 : 4.81856974283854)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MenShoeEntitiesDataContext/Size/Size_Product_Size" />
+      <nodes>
+        <classShapeMoniker Id="22aa274d-0eb7-4109-89ba-8088eb431b61" />
+        <classShapeMoniker Id="eff00264-a103-4717-b946-1ccf8d5f4301" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
